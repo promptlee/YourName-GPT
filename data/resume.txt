@@ -1,0 +1,46 @@
+RESUME:
+
+Ryan Thiago
+1234 Automation Lane, Anytown, NY 12345
+(555) 555-5555
+john.doe@email.com
+
+PROFESSIONAL SUMMARY
+Results-oriented Backend Software Developer with a proven track record in designing and implementing automated solutions. Extensive expertise in creating robust systems to streamline processes, enhance efficiency, and optimize performance. Skilled in backend technologies, database management, and algorithm development.
+
+WORK HISTORY
+
+January 2018 to Current
+Delete - Anytown, NY
+Backend Software Developer
+
+- Spearheaded the development of automated tools for routinely clearing browsing histories, enhancing user privacy and security.
+- Architected and implemented a proprietary backend system, reducing data processing time by 40%.
+- Led a team of 5 developers, fostering collaboration and innovation in automating routine tasks.
+
+June 2014 to December 2017
+Metaverse Energies Services - Anytown, NY
+Automation Engineer
+
+- Designed and deployed automated systems to manage electricity usage in various metaverses, improving efficiency by 30%.
+- Collaborated with cross-functional teams to integrate automated solutions into existing infrastructure, ensuring seamless operations.
+- Conducted regular system audits, identifying and implementing optimizations that saved 15% of overall energy consumption.
+
+SKILLS
+- Proficient in backend development languages: Python, Java, Node.js
+- Automation scripting using Bash and PowerShell
+- Database management: SQL, MongoDB
+- Experience with microservices architecture and RESTful APIs
+- Strong problem-solving and algorithmic skills
+- Version control with Git
+- Agile methodologies
+
+EDUCATION
+Anytown University - Anytown, NY
+Bachelor of Science in Computer Science
+
+PERSONAL INFO:
+
+Ryan, a 31-year-old software developer hailing from New England, is deeply immersed in the world of technology. His insatiable curiosity drives him to explore the latest advancements, always eager to learn and innovate within the realm of coding. When he steps away from his screen, Ryan finds tranquility in the serene beauty of the New England coast, often taking leisurely strolls along the beach with his loyal golden doodle, Benny, by his side.
+
+Amidst his love for technology, Ryan values the simple pleasures of life. He finds joy in capturing the world through the lens of his camera, cherishing moments in photography. Music, particularly the sounds of rappers Blake and Rad Honey, serves as a soothing backdrop to his days, blending seamlessly with his interests in comedy and his occasional visits to stand-up shows. His balanced approach to life intertwines his passion for technology with the calmness found in nature, creating a harmonious rhythm in his everyday pursuits.
