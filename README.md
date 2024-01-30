@@ -86,7 +86,7 @@ python -m streamlit run chat.py
 ```
 
 This produces a UI that looks like this:
-![image](assets/RyanThiago-GPT Example.png) 
+![image2](assets/RyanThiago-GPT Example.png) 
 
 
 ## Adding your own data
@@ -113,7 +113,7 @@ It may take some time the first time it runs a new name since its creating all t
 
 thats it enjoy!
 
-![image](assets/spidermanmeme.png)
+![image2](assets/spidermanmeme.png)
 
 
 ## Contributing

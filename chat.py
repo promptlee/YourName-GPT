@@ -135,6 +135,7 @@ def main():
             st.markdown("""*This AI assistant references details to simulate conversation. It's not a real person,
                          so some info might be wrong. AI can sometimes generate unexpected responses. Use it for fun.*""")
             st.markdown(f"**chatbot type**: *{args.chatbot_type}*")
+            st.markdown(f"youtube video: https://youtu.be/50Z0RKRtI6M?si=LV1vlZ_lFcpQIIAC")
             if st.button('Chaos Mode'):
                 add_balloons()
             
